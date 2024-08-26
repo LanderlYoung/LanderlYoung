@@ -1,6 +1,6 @@
 ## Welcome to my digital garage 🚀
 
-As a Software Engineer for a decad, I primarily focus on Android development using `Java` and `Kotlin`. However, my skillset extends to iOS development, where I've worked extensively with `Objective-C`. During certain phases of my career, I've delved into low-level projects, exploring Linux kernel features, writing C/C++ code, playing with C++ templates, etc.
+As a Software Engineer for a decad, I primarily focus on Android development using `Java` and `Kotlin`. However, my skillset extends to iOS development, where I've worked extensively with `Objective-C`. During certain phases of my career, I've delved into low-level projects, exploring Linux kernel features, writing `C`/`C++` code, playing with `C++` templates, etc.
 
 Beyond my professional endeavors, GitHub is a delightful sanctuary where I can play with code like a digital garage.
 
